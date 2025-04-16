@@ -1,0 +1,40 @@
+
+h1{
+    background-color: lightpink;
+    border-radius: 30px;
+    text-align: center;
+    border: solid;
+    width: 500px;
+    position: relative;margin-left: 450px;
+}
+
+h2{
+    background-color: lightpink;
+    border-radius: 30px;
+    text-align: center;
+    border: solid;
+    width: 500px 
+}
+
+#Ingredientes{
+    border-radius: 20px;
+    background-color: lightpink;
+    width: 500px
+    
+}
+
+#Instrucciones{
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 500px;
+}
+
+img{
+    position: absolute;margin-left: 600px;
+    position: absolute;margin-top: -200px;
+    width: 800px;
+    height: 400px;
+    border-radius: 67px;
+}
+
+
